@@ -1,0 +1,10 @@
+{
+    "require": {
+        "dejurin/php-google-translate-for-free": "^1.0",
+        "vkcom/vk-php-sdk": "^5.101",
+      "ext-json": "*",
+      "ext-mbstring": "*",
+      "ext-curl": "*",
+      "ext-iconv": "*"
+    }
+}
